@@ -1,5 +1,4 @@
 # mnist_knn_skeleton_local.py
-# 目标：给深度学习的同学的“本地数据+可运行+逐步补全”框架
 # - 本地加载 MNIST（支持 IDX+gz 或 mnist.npz）
 # - 跑通 sklearn KNN baseline
 # - 按 TODO 逐步补全：从零实现 KNN、PCA、Top-k 精度、混淆矩阵、计时对比
@@ -323,3 +322,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
